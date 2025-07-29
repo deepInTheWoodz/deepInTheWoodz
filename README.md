@@ -9,5 +9,5 @@
 <br>
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepInTheWoodz&hide_progress=true)
+  ![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=deepInTheWoodz&hide_progress=true](https://github-readme-stats.vercel.app/api/top-langs/?username=deepInTheWoodz)
 </div>
