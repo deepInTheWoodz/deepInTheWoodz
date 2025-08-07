@@ -1,9 +1,19 @@
-<!-- pet -->
+<!-- pet-gitanimals -->
 <div align="center">
+  <a href="https://www.gitanimals.org/">
+    <img
+      src="https://render.gitanimals.org/guilds/740958664789626902/draw"
+      width="1000"
+      height="300"
+      alt="gitanimals in my guild"
+    />
+  </a>
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/lines/{deepInTheWoodz}?pet-id=1" width="1000" height="200"/>
   </a>
 </div>
+
+
 
 
 <!-- title logo -->
