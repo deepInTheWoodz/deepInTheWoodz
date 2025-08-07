@@ -8,20 +8,20 @@
 
 <!-- pet-gitanimals -->
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://www.gitanimals.org/">
-    <img
-      src="https://render.gitanimals.org/guilds/740958664789626902/draw"
-      width="1000"
-      height="300"
-      alt="gitanimals in my guild"
-    />
-  </a>
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=deepInTheWoodz&utm_content=farm">
     <img
       src="https://render.gitanimals.org/farms/deepInTheWoodz"
       width="1000"
       height="300"
       alt="my gitanimals"
+    />
+  </a>
+  <a href="https://www.gitanimals.org/">
+    <img
+      src="https://render.gitanimals.org/guilds/740958664789626902/draw"
+      width="1000"
+      height="300"
+      alt="gitanimals in my guild"
     />
   </a>
 </div>
