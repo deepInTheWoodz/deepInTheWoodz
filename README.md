@@ -5,8 +5,9 @@
   </a>
 </div>
 
+
 <!-- pet-gitanimals -->
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://www.gitanimals.org/">
     <img
       src="https://render.gitanimals.org/guilds/740958664789626902/draw"
@@ -15,11 +16,18 @@
       alt="gitanimals in my guild"
     />
   </a>
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/{deepInTheWoodz}?pet-id=1" width="1000" height="200"/>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=deepInTheWoodz&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/deepInTheWoodz"
+      width="1000"
+      height="300"
+      alt="my gitanimals"
+    />
   </a>
 </div>
 
+
+<!-- top languages -->
 <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepInTheWoodz)
